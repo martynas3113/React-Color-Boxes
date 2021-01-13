@@ -1,4 +1,4 @@
-## Color-boxes
+## Color-Boxes
 
 Mini project made for learning purpose. To learn change element state and pass it by props to another element.
 
@@ -8,4 +8,4 @@ Mini project made for learning purpose. To learn change element state and pass i
 - You can change color on click
 - You can specify number of boxes to generate
 
-Project published at : [Color-boxes](https://react-color-boxes55.netlify.app/)
+Project published at : [Color-Boxes](https://react-color-boxes55.netlify.app/)
