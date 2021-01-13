@@ -8,4 +8,4 @@ Mini project made for learning purpose. To learn change element state and pass i
 - You can change color on click
 - You can specify number of boxes to generate
 
-[Color-boxer](https://react-color-boxes55.netlify.app/)
+[Color-boxes](https://react-color-boxes55.netlify.app/)
